@@ -18,7 +18,7 @@ body {
   display: flex;
   align-items: flex-start;
   justify-content: center;
-  background: linear-gradient(to top left, #28b487, #7dd56f);
+  background: linear-gradient(to bottom, #a922ce, #480142);
 }
 
 .show-modal {
@@ -79,7 +79,7 @@ p {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.6);
-  backdrop-filter: blur(3px);
+  background-color: rgba(0, 0, 0, 0.253);
+  backdrop-filter: blur(2.5px);
   z-index: 5;
 }
